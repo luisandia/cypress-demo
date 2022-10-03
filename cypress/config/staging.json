@@ -1,6 +1,6 @@
 {
-    "baseUrl" : "https://automationteststore.com/",
-    "env" : {
-        "name" : "Barani Sivaraman"
-    }
+  "baseUrl": "https://www.automationteststore.com/",
+  "env": {
+    "name": "John Doe"
+  }
 }
